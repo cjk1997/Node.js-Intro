@@ -1,1 +1,5 @@
-console.log("Hello World!");
+const animateText = require('text-animate');
+
+
+
+console.log("Hello World!"); 
